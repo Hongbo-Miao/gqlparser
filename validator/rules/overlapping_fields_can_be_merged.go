@@ -3,7 +3,7 @@ package validator
 import (
 	"bytes"
 	"fmt"
-	"reflect"
+	"github.com/goccy/go-reflect"
 
 	"github.com/vektah/gqlparser/v2/ast"
 	. "github.com/vektah/gqlparser/v2/validator"

@@ -3,7 +3,7 @@ package validator
 import (
 	"encoding/json"
 	"fmt"
-	"reflect"
+	"github.com/goccy/go-reflect"
 	"strconv"
 	"strings"
 

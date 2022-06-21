@@ -3,7 +3,7 @@ package ast
 import (
 	"bytes"
 	"fmt"
-	"reflect"
+	"github.com/goccy/go-reflect"
 	"strconv"
 	"strings"
 )
